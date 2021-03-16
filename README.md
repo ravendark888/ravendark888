@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/47d967e9-5aff-4055-8ea0-0679155b4503.png" style="width:200px;height:200px;"/></a>
+
+<!--Hi there 👋
 
 <!--
 **ravendark888/ravendark888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<figure><embed src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/cf7aae58-8640-4743-a770-a661254d19ef.svg"></embed></figure>
+
