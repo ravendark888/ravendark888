@@ -1,6 +1,6 @@
 <figure>
-	<embed src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/b8d1d695-8f08-451e-8173-91b7ccdee302.svg" />
-	<embed src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/f7eefd9d-3264-4551-b0a4-54ea0c14f8f0.svg" />
+	<embed src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/5c1e0af5-ee8e-471d-9d52-ece7651a530d.png" />
+	<embed src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/dc69b4f4-4c51-423a-9251-db0d32057973.png" />
 </figure>
 <!--Hi there 👋
 
