@@ -1,5 +1,5 @@
 <figure>
-	<img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/b8d1d695-8f08-451e-8173-91b7ccdee302.svg" width="1000" height="400"/>
+	<img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/b8d1d695-8f08-451e-8173-91b7ccdee302.svg" width="800" height="300"/>
 	<img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/f7eefd9d-3264-4551-b0a4-54ea0c14f8f0.svg" width="200" height="200"/>
 </figure>
 <!--Hi there 👋
