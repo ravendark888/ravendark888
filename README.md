@@ -2,9 +2,9 @@
 
 <!--
 **ravendark888/ravendark888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
-
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<figure><embed src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/cf7aae58-8640-4743-a770-a661254d19ef.svg"></embed></figure>
