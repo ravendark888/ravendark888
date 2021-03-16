@@ -1,6 +1,6 @@
 <figure>
-	<embed src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/5c1e0af5-ee8e-471d-9d52-ece7651a530d.png" />
-	<embed src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/dc69b4f4-4c51-423a-9251-db0d32057973.png" />
+	<img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/5c1e0af5-ee8e-471d-9d52-ece7651a530d.png" width="500" height="400"/>
+	<img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/dc69b4f4-4c51-423a-9251-db0d32057973.png" width="500" height="400"/>
 </figure>
 <!--Hi there 👋
 
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
