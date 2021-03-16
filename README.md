@@ -1,4 +1,4 @@
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/47d967e9-5aff-4055-8ea0-0679155b4503.png" style="width:200px;height:200px;"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/47d967e9-5aff-4055-8ea0-0679155b4503.png" style="width:50px;height:50px;"/></a>
 
 <!--Hi there 👋
 
