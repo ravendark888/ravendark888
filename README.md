@@ -1,23 +1,29 @@
-<figure>
-	<img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/5ae92b36-ded0-49d7-bced-4a00abd4444b.svg" style="float: right; width: 50%;"/>
-	<img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/06df8550-bc68-4b47-891a-92a63735e5a3.svg" style="float: left; width: 50%;"/>
-    <hr>
-	<img alt="Code Time" src="https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/1013?logoColor=white%26project=%26recentMS=0%26showProject=false" style="margin-left: 45%" />
-</figure>
-<!--Hi there 👋
-
-<!--
-**ravendark888/ravendark888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
-<--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+<html>
+<head>
+<style>
+    * {
+      box-sizing: border-box;
+    }
+    .column {
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+    }
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+</style>
+</head>
+<body>
+    <div class="row">
+      <div class="column">
+        <img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/5ae92b36-ded0-49d7-bced-4a00abd4444b.svg" alt="Snow" style="width:100%">
+      </div>
+      <div class="column">
+        <img src="https://wakatime.com/share/@0858d29e-7a84-490e-88b5-48d3025496c9/06df8550-bc68-4b47-891a-92a63735e5a3.svg" alt="Forest" style="width:100%">
+      </div>
+    </div>
+</body>
+</html>
