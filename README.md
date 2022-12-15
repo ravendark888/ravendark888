@@ -7,6 +7,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xaman-asif&theme=dark)](https://git.io/streak-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xaman-asif&show_icons=true&theme=dark)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaman-asif&theme=dark)](https://github.com/anuraghazra/github-readme-stats)     -->
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/1013?logoColor=white%26project=%26recentMS=0%26showProject=false"/>
+[![wakatime](https://wakatime.com/badge/user/0369b575-2b8e-4f43-9818-348ffeecce67.svg)](https://wakatime.com/@0369b575-2b8e-4f43-9818-348ffeecce67)
 
 ![Profile views](https://gpvc.arturio.dev/xaman-asif)
